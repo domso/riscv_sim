@@ -1,6 +1,6 @@
 # Simple Risc-V Simulator
 
-Lightweight simulator Risc-V simulator written in C++.
+Lightweight Risc-V simulator written in C++.
 
 Features:
     - full rv32i support
